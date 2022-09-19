@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagement", "InventoryManagement\InventoryManagement.csproj", "{7675DEE7-F4F2-4A80-8C1E-30E0F95547AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7675DEE7-F4F2-4A80-8C1E-30E0F95547AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7675DEE7-F4F2-4A80-8C1E-30E0F95547AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7675DEE7-F4F2-4A80-8C1E-30E0F95547AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7675DEE7-F4F2-4A80-8C1E-30E0F95547AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC8CF1F0-0EF6-46BA-BA16-A97DADC1FB6B}
+	EndGlobalSection
+EndGlobal
